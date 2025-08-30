@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+body {
+  @apply bg-black min-h-screen;
+  background-image: url('https://images.pexels.com/photos/1114690/pexels-photo-1114690.jpeg?_gl=1*ai37yc*_ga*MjA3OTE2MzcxNS4xNzU2NTYyMTM3*_ga_8JE65Q40S6*czE3NTY1NjUyMjAkbzIkZzEkdDE3NTY1NjUyMjUkajU1JGwwJGgw');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
